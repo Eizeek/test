@@ -1,17 +1,19 @@
+
+// Knapsack problem
 /*
-let a  = +prompt('Enter first positive number')
+items [
 
-let b = +prompt('Enter second positive number')
+{id: 'a', val: 10, w: 3 },
+{id: 'b', val: 6, w:8},
+{id: 'c', val: 3, w:3 }
 
-
-if (a === b)  {
-
-let c = 1;
-
-}
+]
 
 
-console.log(c)  */
+maxWeight = 8
+
+bag ['a', 'c']
+*/
 
 
 
